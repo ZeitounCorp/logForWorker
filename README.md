@@ -27,7 +27,7 @@ check_if_active_session() {
 ```
 * Edit your PS1 by adding in it: ```\[\033[32m\]\$(parse_git_branch)\[\033[00m\]```
 * By adding this, your prompt will change depending on if there is a current working session or not
-
+![alt PS1 render](https://github.com/ZeitounCorp/logForWorker/blob/master/assets/PS1ACTO.png?raw=true)
 
 ## ENJOY 😉 
 
